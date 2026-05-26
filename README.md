@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="public/hero.png" alt="ghViewer – GitHub Repo Viewer" width="800" />
 
   <h1>ghViewer</h1>
   <p>A faster, cleaner way to explore GitHub repositories.</p>
